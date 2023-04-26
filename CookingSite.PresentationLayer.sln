@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingSite.PresentationLayer", "CookingSite.PresentationLayer\CookingSite.PresentationLayer.csproj", "{BC2FA71F-2772-4602-8FA3-6811CC453A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2FA71F-2772-4602-8FA3-6811CC453A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2FA71F-2772-4602-8FA3-6811CC453A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2FA71F-2772-4602-8FA3-6811CC453A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2FA71F-2772-4602-8FA3-6811CC453A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A6F2999-BF0C-49CC-AD60-A5C68ED82A0D}
+	EndGlobalSection
+EndGlobal
